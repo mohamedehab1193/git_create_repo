@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Line from cloud
 line 1 on local branch
 Line 2 on local branch
+Line 3 from local branch after the first push
+=======
+Editing Line from master
+>>>>>>> master
